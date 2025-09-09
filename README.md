@@ -4,7 +4,7 @@ But i didn't learn git and github at that time so, I used to save my files in a 
 <br>
 I use PyCharm Code Editor to run my Python Code.
 <br>
-In this Reepo I have compiled all my code together and also i will commit here my future code as well.
+In this Repo I have compiled all my code together and also i will commit here my future code as well.
 <br>
 I have built small projects and wrote codes about the python concepts.
 <br> 
