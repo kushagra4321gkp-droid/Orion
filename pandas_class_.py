@@ -36,6 +36,3 @@ print("how")
 a = 5
 print(type(type))
 
-
-
-
