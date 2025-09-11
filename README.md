@@ -1,6 +1,6 @@
 <h1 align="center">🐍 My Python Learning Journey</h1>
 <p align="center">
-  🚀 Started coding in Python in @pr25 — and here’s my progress so far!
+  🚀 Started coding in Python in julie25 — and here’s my progress so far!
 </p>
 
 ---
