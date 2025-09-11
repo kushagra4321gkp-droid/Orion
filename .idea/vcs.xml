@@ -4,6 +4,5 @@
     <mapping directory="$USER_HOME$/Desktop/gitDemo/first-repo" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/first-repo" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/localRepo" vcs="Git" />
   </component>
 </project>

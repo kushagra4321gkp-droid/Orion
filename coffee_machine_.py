@@ -44,7 +44,7 @@ def take_the_change(coffeee, five_rupee, ten_rupee, twenty_rupee):
 
 end_customer = True
 while end_customer:
-    coffee_type = input("what would you like to have? : ")
+    coffee_type = input("what would you like to have? latte or cappuccino or espresso?: ")
     if coffee_type == "off":
         print("turned off")
         end_customer = False
